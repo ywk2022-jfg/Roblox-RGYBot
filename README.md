@@ -1,18 +1,12 @@
 # Roblox-RGYBot
 
-
-
-[TOC]
-
-
-
 ## 中文说明
 
 使用Roblox Open Cloud的群组排名系统。
 
 方法1：
 
-下载[此文件](https://github.com/ywk2022-jfg/Roblox-RGYBot/releases/tag/Public)，并导入至Roblox Studio中，随后把Main移动至ServerScriptService，把RGYBot移动至ReplicatedStorage，随后就可以进行群组升/降级了！
+下载[此文件](https://github.com/ywk2022-jfg/Roblox-RGYBot/releases)，并导入至Roblox Studio中，随后把Main移动至ServerScriptService，把RGYBot移动至ReplicatedStorage，随后就可以进行群组升/降级了！
 
 方法2：
 
