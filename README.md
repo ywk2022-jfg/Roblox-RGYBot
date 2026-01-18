@@ -1,5 +1,5 @@
 # Roblox-RGYBot
-
+Powered by RobloxStudio
 ## 中文说明
 
 使用Roblox Open Cloud的群组排名系统。
